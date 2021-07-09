@@ -2197,7 +2197,7 @@ form .padding-left-15 {
 }
 
 .about-image {
-  max-height: 450px;
+  max-width: 450px;
   }
   
   .about-title {
@@ -2211,6 +2211,9 @@ form .padding-left-15 {
  */
 /* Select 1px to 992px devices */
 @media only screen and (min-width: 1px) and (max-width: 992px) {
+  .about-image {
+    max-width: 100%;
+    }
 
   video {
     width: 100%;
