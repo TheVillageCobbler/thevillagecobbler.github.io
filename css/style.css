@@ -736,7 +736,8 @@ div.loading {
 
 .case-study .content p {
   font-size: 16px;
-  color: rgba(175, 175, 175, 0.8);
+  color: white;
+  font-weight: 600;
 }
 
 .case-study .content .btn {
@@ -1688,6 +1689,7 @@ hr.hr-border {
   margin-bottom: 0;
   color :white;
   font-size: 16px;
+  font-weight: 600;
 }
 
 .gallery-img {
