@@ -2213,6 +2213,10 @@ form .padding-left-15 {
  */
 /* Select 1px to 992px devices */
 @media only screen and (min-width: 1px) and (max-width: 992px) {
+  .clients-logo .block img {
+    max-width: 100%;
+  }
+  
   .about-image {
     max-width: 100%;
     }
