@@ -821,7 +821,7 @@ div.loading {
   position: absolute;
   left: 0;
   right: 0;
-  top: 50%;
+  top: 43%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
 }
