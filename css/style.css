@@ -2202,9 +2202,11 @@ form .padding-left-15 {
   max-width: 450px;
   }
   
-  .about-title {
-    margin-top: 75px;
-  }
+.about-title {
+   margin-top: 75px;
+}
+
+
 
 /**
  * ---------------------------------------------------------------------------
