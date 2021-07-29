@@ -2207,6 +2207,19 @@ form .padding-left-15 {
 }
 
 
+.announcement-bar {
+  display: inline-block;
+  height: 100%;
+  text-align: center;
+  width: 100%;
+  color: white;
+  font-family: Arial, sans;
+  margin: 0;
+  padding: 0;
+  vertical-align: middle;
+  font-size: 1em;
+}
+
 
 /**
  * ---------------------------------------------------------------------------
